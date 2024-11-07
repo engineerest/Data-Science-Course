@@ -1,0 +1,4 @@
+Hi, when I started learn TensorFlow 1, I got the problems with new version.
+So, if you start code on TF1, I recommended you, check your tf version,
+if you detected that you have tf2, change your actual version on 1.
+With pleasure, Ruslan.
